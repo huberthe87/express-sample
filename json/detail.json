@@ -1,0 +1,15 @@
+{
+  "id": "item_01",
+  "name": "Item 01",
+  "status": "on_sale",
+  "num_likes": 44,
+  "num_comments": 11,
+  "price": 499.5,
+  "images": [
+    "http://dummyimage.com/400x400/000/fff?text=Item01_1",
+    "http://dummyimage.com/400x400/000/fff?text=Item01_2",
+    "http://dummyimage.com/400x400/000/fff?text=Item01_3",
+    "http://dummyimage.com/400x400/000/fff?text=Item01_4"
+  ],
+  "description": "This is the test item description."
+}

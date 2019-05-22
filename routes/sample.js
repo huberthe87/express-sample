@@ -21,4 +21,10 @@ router.get('/category', function (req, res, next) {
     res.status(200).type('json').sendfile('json/master_response.json');
 });
 
+/* GET item detail. */
+router.get('/detail/*', function (req, res, next) {
+    res.status(200).type('json').sendfile('json/detail.json');
+});
+
+
 module.exports = router;
